@@ -1,0 +1,1 @@
+import React from 'react'; import './App.css'; function App() { return ( <div className='portfolio'> <header className='hero'> <h1>Hi, I'm <span className='highlight'>Bipin</span> 👋</h1> <p>Full Stack Developer</p> </header> </div> ); } export default App;
